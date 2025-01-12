@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/saddle"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "minecraft:item/saddles/saddle_1"
+    },{
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "minecraft:item/saddles/saddle_2"
+    },{
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "minecraft:item/saddles/saddle_3"
+    },{
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "minecraft:item/saddles/saddle_4"
+    },{
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "minecraft:item/saddles/saddle_5"
+    }
+  ]
+}

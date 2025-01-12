@@ -1,0 +1,34 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/spawn_egg",
+        "layer1": "item/spawn_egg_overlay"
+    },
+    "overrides": [
+        {
+            "predicate": { "custom_model_data":1},
+      	    "model": "item/model/ritual/ritual_ice"
+        },{
+            "predicate": { "custom_model_data":2},
+      	    "model": "item/model/ritual/ritual_fire"
+        },{
+            "predicate": { "custom_model_data":3},
+      	    "model": "item/model/ritual/ritual_protection"
+        },{
+            "predicate": { "custom_model_data":4},
+      	    "model": "item/model/ritual/ritual_thunder"
+        },{
+            "predicate": { "custom_model_data":5},
+      	    "model": "item/model/ritual/ritual_warp1"
+        },{
+            "predicate": { "custom_model_data":6},
+      	    "model": "item/model/ritual/ritual_warp2"
+        },{
+            "predicate": { "custom_model_data":7},
+      	    "model": "item/model/ritual/ritual_warp3"
+        },{
+            "predicate": { "custom_model_data":8},
+      	    "model": "item/model/ritual/ritual_warp4"
+        }
+    ]
+}

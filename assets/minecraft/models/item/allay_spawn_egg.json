@@ -1,0 +1,29 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/allay_spawn_egg",
+        "layer1": "item/allay_spawn_egg_overlay"
+    },
+  "overrides": [
+       {
+      "predicate": {
+        "custom_model_data": 0
+      },
+      "model": "minecraft:item/spawn_eggs/spawn_egg"
+    },{
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "minecraft:item/spawn_eggs/summon_scroll"
+    },{
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "item/model/wizard_ability_protection"
+    }
+  ]
+}
+
+
+/summon armor_stand ~ ~ ~ {Tags:["marker_freezing"],Invisible:1b,Pose:{RightArm:[90f,0f,0f]},ShowArms:1b,HandItems:[{id:carrot_on_a_stick,components:{custom_model_data:1},count:1}],HandDropChances:[0f]}
+/summon armor_stand ~ ~2 ~ {Tags:["marker_freezing"],Invisible:1b,ArmorItems:[{},{},{},{id:carrot_on_a_stick,components:{custom_model_data:1},count:1}],ArmorDropChances:[0f,0f,0f,0f]}

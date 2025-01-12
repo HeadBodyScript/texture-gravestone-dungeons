@@ -1,0 +1,19 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/tipped_arrow"
+    },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 0
+      },
+      "model": "minecraft:item/arrows/tipped_arrow"
+    },{
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "minecraft:item/arrows/special_arrow"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/arrow"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "minecraft:item/arrows/amethyst_arrow"
+    },{
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "minecraft:item/arrows/copper_arrow"
+    },{
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "minecraft:item/arrows/copper_arrow_infused"
+    },{
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "minecraft:item/arrows/iron_arrow"
+    },{
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "minecraft:item/arrows/iron_arrow_infused"
+    },{
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "minecraft:item/arrows/diamond_arrow"
+    },{
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "minecraft:item/arrows/diamond_arrow_infused"
+    },{
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "minecraft:item/arrows/netherite_arrow"
+    },{
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "minecraft:item/arrows/netherite_arrow_infused"
+    }
+  ]
+}

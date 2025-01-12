@@ -1,0 +1,79 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/enchanted_book"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "minecraft:item/books/elder_tome"
+    },{
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "minecraft:item/books/ancient_scriptures"
+    },{
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "minecraft:item/books/hoary_srcolls"
+    },{
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "minecraft:item/books/cursed_writings"
+    },{
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "minecraft:item/books/dusty_notices"
+    },{
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "minecraft:item/books/manaflow"
+    },{
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "minecraft:item/books/uncommon"
+    },{
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "minecraft:item/books/rare"
+    },{
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "minecraft:item/books/epic"
+    },{
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "minecraft:item/books/legendary"
+    },{
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "minecraft:item/books/arcane_grimoire"
+    },{
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "minecraft:item/books/obscure_scrolls"
+    },{
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "minecraft:item/books/veiled_chronicles"
+    },{
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "minecraft:item/books/wicked_manuscripts"
+    }
+  ]
+}

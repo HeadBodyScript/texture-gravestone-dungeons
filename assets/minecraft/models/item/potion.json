@@ -1,0 +1,49 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/potion"
+  },
+  "overrides": [
+       {
+      "predicate": {
+        "custom_model_data": 0
+      },
+      "model": "minecraft:item/potions/potion"
+    },{
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "minecraft:item/potions/minor"
+    },{
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "minecraft:item/potions/normal"
+    },{
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "minecraft:item/potions/plentiful"
+    },{
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "minecraft:item/potions/vigorous"
+    },{
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "minecraft:item/consumables/ale"
+    },{
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "minecraft:item/consumables/mead"
+    },{
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "minecraft:item/consumables/mulled_wine"
+    }
+  ]
+}

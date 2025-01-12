@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/lingering_potion"
+  },
+  "overrides": [
+       {
+      "predicate": {
+        "custom_model_data": 0
+      },
+      "model": "minecraft:item/lingering_potions/lingering_potion"
+    },{
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "minecraft:item/lingering_potions/minor"
+    },{
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "minecraft:item/lingering_potions/normal"
+    },{
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "minecraft:item/lingering_potions/plentiful"
+    },{
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "minecraft:item/lingering_potions/vigorous"
+    }
+  ]
+}

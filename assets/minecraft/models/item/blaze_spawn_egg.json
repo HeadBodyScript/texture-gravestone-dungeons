@@ -1,0 +1,25 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/blaze_spawn_egg",
+        "layer1": "item/blaze_spawn_egg_overlay"
+    },
+  "overrides": [
+       {
+      "predicate": {
+        "custom_model_data": 0
+      },
+      "model": "minecraft:item/spawn_eggs/spawn_egg"
+    },{
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "minecraft:item/spawn_eggs/summon_scroll"
+    },{
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "minecraft:item/spawn_eggs/summon_one_use_scroll"
+    }
+  ]
+}
