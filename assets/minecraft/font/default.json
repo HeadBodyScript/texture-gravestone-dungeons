@@ -2,6 +2,237 @@
     "providers": [
         {
             "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 4,
+            "chars": ["\uF825"]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 31,
+            "chars": ["\uF82A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 63,
+            "chars": ["\uF82B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -4,
+            "chars": ["\uF802"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/icon.png",
+            "ascent": 2,
+            "height": 27,
+            "chars": ["\uE000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/icon_half.png",
+            "ascent": 2,
+            "height": 27,
+            "chars": ["\uE001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/icon_off.png",
+            "ascent": 2,
+            "height": 27,
+            "chars": ["\uE002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/logo.png",
+            "ascent": 12,
+            "height": 12,
+            "chars": ["\uA000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/boss_devil.png",
+            "ascent": 26,
+            "height": 58,
+            "chars": ["\uA0A1"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/boss_grimgar.png",
+            "ascent": -12,
+            "height": 58,
+            "chars": ["\uA0A2"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/boss_marrow.png",
+            "ascent": 26,
+            "height": 58,
+            "chars": ["\uA0A3"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/boss_morbex.png",
+            "ascent": 26,
+            "height": 58,
+            "chars": ["\uA0A4"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/boss_the_covens.png",
+            "ascent": 26,
+            "height": 58,
+            "chars": ["\uA0A5"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/boss_grimgar_text.png",
+            "ascent": 16,
+            "height": 26,
+            "chars": ["\uA0A6"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/structure_blackstone_maze.png",
+            "ascent": 26,
+            "height": 58,
+            "chars": ["\uE0B0"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/structure_mirehaven_caves.png",
+            "ascent": 26,
+            "height": 58,
+            "chars": ["\uE0B1"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/structure_cloud_nomads.png",
+            "ascent": 26,
+            "height": 58,
+            "chars": ["\uE0B2"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/structure_direwood.png",
+            "ascent": 26,
+            "height": 58,
+            "chars": ["\uE0B3"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/structure_edinborough_fair.png",
+            "ascent": 26,
+            "height": 58,
+            "chars": ["\uE0B4"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/structure_emberstone_bastion.png",
+            "ascent": 26,
+            "height": 58,
+            "chars": ["\uE0B5"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/structure_monastery_of_highpeak.png",
+            "ascent": 26,
+            "height": 58,
+            "chars": ["\uE0B6"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/trident.png",
+            "ascent": 6,
+            "height": 6,
+            "chars": ["\uEA01"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/iron_boots.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["\uEA02"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/iron_leggings.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["\uEA03"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/iron_chestplate.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["\uEA04"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/iron_helmet.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["\uEA05"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/iron_sword.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["\uEA06"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/iron_pickaxe.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["\uEA07"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/iron_axe.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["\uEA08"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/iron_hoe.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["\uEA09"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/iron_shovel.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["\uEA10"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/bow.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["\uEA11"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/mace.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["\uEA12"]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:custom/icon.png",
             "ascent": 2,
             "height": 27,
