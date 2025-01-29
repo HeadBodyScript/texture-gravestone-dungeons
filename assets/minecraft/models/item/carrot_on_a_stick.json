@@ -29,6 +29,9 @@
         },{
             "predicate": { "custom_model_data":8},
       	    "model": "item/model/ritual/ritual_warp4"
+        },{
+            "predicate": { "custom_model_data":9},
+      	    "model": "item/model/ritual/ritual_retaliation_pulse"
         }
     ]
 }
