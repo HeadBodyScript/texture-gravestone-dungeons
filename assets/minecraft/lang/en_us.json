@@ -1,8 +1,10 @@
 {
     "enchantment.minecraft.adrenaline_boost": "\u00A7f\uEA02\u00A77 Adrenaline Boost",
+    "enchantment.minecraft.blackthorn_arrow": "\u00A7f\uEA11\u00A77 Blackthorn Arrow",
     "enchantment.minecraft.bleeding": "\u00A7f\uEA06\u00A77 Bleeding",
     "enchantment.minecraft.blessing": "\u00A7f\uEA06\u00A77 Blessing",
     "enchantment.minecraft.bonecaller": "\u00A7f\uEA06\u00A77 Bonecaller",
+    "enchantment.minecraft.chorus_void": "\u00A7f\uEA11\u00A77 Chorus Void",
     "enchantment.minecraft.projectile_deflection": "\u00A7f\uEA06\u00A77 Projectile Deflection",
     "enchantment.minecraft.disarming": "\u00A7f\uEA06\u00A77 Disarming",
     "enchantment.minecraft.evoker_fangs": "\u00A7f\uEA06\u00A77 Evoker Fangs",
@@ -18,6 +20,7 @@
     "enchantment.minecraft.levitation": "\u00A7f\uEA13\u00A77 Levitation",
     "enchantment.minecraft.light_wave": "\u00A7f\uEA06\u00A77 Light Wave",
     "enchantment.minecraft.lightning_bow": "\u00A7f\uEA11\u00A77 Thunder Arrow",
+    "enchantment.minecraft.mistbreaker": "\u00A7f\uEA14\u00A77 Mistbreaker",
     "enchantment.minecraft.magma_walker": "\u00A7f\uEA02\u00A77 Magma Walker",
     "enchantment.minecraft.poisoning": "\u00A7f\uEA06\u00A77 Poisoning",
     "enchantment.minecraft.potion_bag": "\u00A7f\uEA04\u00A77 Potion Bag",

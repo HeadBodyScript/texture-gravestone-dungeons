@@ -237,6 +237,13 @@
             "ascent": 9,
             "height": 11,
             "chars": ["\uEA13"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/elytra.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["\uEA14"]
         }
     ]
 }

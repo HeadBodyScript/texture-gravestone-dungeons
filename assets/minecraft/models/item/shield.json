@@ -42,9 +42,77 @@
         }
     },
     "overrides": [
-        {
-            "predicate": { "custom_model_data":1012001},
-            "model": "item/shield/test"
+         {
+            "predicate": {
+                "blocking": 1
+            },
+            "model": "item/shield_blocking"
+        },{
+            "predicate": {
+                 "custom_model_data":1
+            },
+            "model": "item/shield/wooden_shield"
+        },{
+            "predicate": {
+		 "custom_model_data":1,
+                "blocking": 1
+            },
+            "model": "item/shield/wooden_shield_blocking"
+        },{
+            "predicate": {
+                 "custom_model_data":2
+            },
+            "model": "item/shield/copper_shield"
+        },{
+            "predicate": {
+		 "custom_model_data":2,
+                "blocking": 1
+            },
+            "model": "item/shield/copper_shield_blocking"
+        },{
+            "predicate": {
+                 "custom_model_data":3
+            },
+            "model": "item/shield/iron_shield"
+        },{
+            "predicate": {
+		 "custom_model_data":3,
+                "blocking": 1
+            },
+            "model": "item/shield/iron_shield_blocking"
+        },{
+            "predicate": {
+                 "custom_model_data":4
+            },
+            "model": "item/shield/diamond_shield"
+        },{
+            "predicate": {
+		 "custom_model_data":4,
+                "blocking": 1
+            },
+            "model": "item/shield/diamond_shield_blocking"
+        },{
+            "predicate": {
+                 "custom_model_data":5
+            },
+            "model": "item/shield/netherite_shield"
+        },{
+            "predicate": {
+		 "custom_model_data":5,
+                "blocking": 1
+            },
+            "model": "item/shield/netherite_shield_blocking"
+        },{
+            "predicate": {
+                 "custom_model_data":6
+            },
+            "model": "item/shield/amethyst_shield"
+        },{
+            "predicate": {
+		 "custom_model_data":6,
+                "blocking": 1
+            },
+            "model": "item/shield/amethyst_shield_blocking"
         }
     ]
 }
