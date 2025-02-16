@@ -63,14 +63,14 @@
             "predicate": {
         	"custom_model_data": 1
             },
-            "model": "item/crossbow/copper_crossbow"
+            "model": "item/crossbow/reinforced_crossbow_1"
         },
 	{
             "predicate": {
                 "pulling": 1,
         	"custom_model_data": 1
             },
-            "model": "item/crossbow/copper_crossbow_pulling_0"
+            "model": "item/crossbow/reinforced_crossbow_1_pulling_0"
         },
         {
             "predicate": {
@@ -78,7 +78,7 @@
                 "pull": 0.65,
         	"custom_model_data": 1
             },
-            "model": "item/crossbow/copper_crossbow_pulling_1"
+            "model": "item/crossbow/reinforced_crossbow_1_pulling_1"
         },
         {
             "predicate": {
@@ -86,14 +86,14 @@
                 "pull": 0.9,
         	"custom_model_data": 1
             },
-            "model": "item/crossbow/copper_crossbow_pulling_2"
+            "model": "item/crossbow/reinforced_crossbow_1_pulling_2"
         },
         {
             "predicate": {
                 "charged": 1,
         	"custom_model_data": 1
             },
-            "model": "item/crossbow/copper_crossbow_arrow"
+            "model": "item/crossbow/reinforced_crossbow_1_arrow"
         },
         {
             "predicate": {
@@ -101,20 +101,20 @@
         	"custom_model_data": 1,
                 "firework": 1
             },
-            "model": "item/crossbow/copper_crossbow_firework"
+            "model": "item/crossbow/reinforced_crossbow_1_firework"
         },
 	{
             "predicate": {
         	"custom_model_data": 2
             },
-            "model": "item/crossbow/iron_crossbow"
+            "model": "item/crossbow/reinforced_crossbow_2"
         },
 	{
             "predicate": {
                 "pulling": 1,
         	"custom_model_data": 2
             },
-            "model": "item/crossbow/iron_crossbow_pulling_0"
+            "model": "item/crossbow/reinforced_crossbow_2_pulling_0"
         },
         {
             "predicate": {
@@ -122,7 +122,7 @@
                 "pull": 0.65,
         	"custom_model_data": 2
             },
-            "model": "item/crossbow/iron_crossbow_pulling_1"
+            "model": "item/crossbow/reinforced_crossbow_2_pulling_1"
         },
         {
             "predicate": {
@@ -130,14 +130,14 @@
                 "pull": 0.9,
         	"custom_model_data": 2
             },
-            "model": "item/crossbow/iron_crossbow_pulling_2"
+            "model": "item/crossbow/reinforced_crossbow_2_pulling_2"
         },
         {
             "predicate": {
                 "charged": 1,
         	"custom_model_data": 2
             },
-            "model": "item/crossbow/iron_crossbow_arrow"
+            "model": "item/crossbow/reinforced_crossbow_2_arrow"
         },
         {
             "predicate": {
@@ -145,20 +145,20 @@
         	"custom_model_data": 2,
                 "firework": 1
             },
-            "model": "item/crossbow/iron_crossbow_firework"
+            "model": "item/crossbow/reinforced_crossbow_2_firework"
         },
 	{
             "predicate": {
         	"custom_model_data": 3
             },
-            "model": "item/crossbow/diamond_crossbow"
+            "model": "item/crossbow/reinforced_crossbow_3"
         },
 	{
             "predicate": {
                 "pulling": 1,
         	"custom_model_data": 3
             },
-            "model": "item/crossbow/diamond_crossbow_pulling_0"
+            "model": "item/crossbow/reinforced_crossbow_3_pulling_0"
         },
         {
             "predicate": {
@@ -166,7 +166,7 @@
                 "pull": 0.65,
         	"custom_model_data": 3
             },
-            "model": "item/crossbow/diamond_crossbow_pulling_1"
+            "model": "item/crossbow/reinforced_crossbow_3_pulling_1"
         },
         {
             "predicate": {
@@ -174,14 +174,14 @@
                 "pull": 0.9,
         	"custom_model_data": 3
             },
-            "model": "item/crossbow/diamond_crossbow_pulling_2"
+            "model": "item/crossbow/reinforced_crossbow_3_pulling_2"
         },
         {
             "predicate": {
                 "charged": 1,
         	"custom_model_data": 3
             },
-            "model": "item/crossbow/diamond_crossbow_arrow"
+            "model": "item/crossbow/reinforced_crossbow_3_arrow"
         },
         {
             "predicate": {
@@ -189,62 +189,18 @@
         	"custom_model_data": 3,
                 "firework": 1
             },
-            "model": "item/crossbow/diamond_crossbow_firework"
+            "model": "item/crossbow/reinforced_crossbow_3_firework"
         },
 	{
             "predicate": {
         	"custom_model_data": 4
-            },
-            "model": "item/crossbow/netherite_crossbow"
-        },
-	{
-            "predicate": {
-                "pulling": 1,
-        	"custom_model_data": 4
-            },
-            "model": "item/crossbow/netherite_crossbow_pulling_0"
-        },
-        {
-            "predicate": {
-                "pulling": 1,
-                "pull": 0.65,
-        	"custom_model_data": 4
-            },
-            "model": "item/crossbow/netherite_crossbow_pulling_1"
-        },
-        {
-            "predicate": {
-                "pulling": 1,
-                "pull": 0.9,
-        	"custom_model_data": 4
-            },
-            "model": "item/crossbow/netherite_crossbow_pulling_2"
-        },
-        {
-            "predicate": {
-                "charged": 1,
-        	"custom_model_data": 4
-            },
-            "model": "item/crossbow/netherite_crossbow_arrow"
-        },
-        {
-            "predicate": {
-                "charged": 1,
-        	"custom_model_data": 4,
-                "firework": 1
-            },
-            "model": "item/crossbow/netherite_crossbow_firework"
-        },
-	{
-            "predicate": {
-        	"custom_model_data": 5
             },
             "model": "item/crossbow/armadillo_crossbow"
         },
 	{
             "predicate": {
                 "pulling": 1,
-        	"custom_model_data": 5
+        	"custom_model_data": 4
             },
             "model": "item/crossbow/armadillo_crossbow_pulling_0"
         },
@@ -252,7 +208,7 @@
             "predicate": {
                 "pulling": 1,
                 "pull": 0.65,
-        	"custom_model_data": 5
+        	"custom_model_data": 4
             },
             "model": "item/crossbow/armadillo_crossbow_pulling_1"
         },
@@ -260,21 +216,21 @@
             "predicate": {
                 "pulling": 1,
                 "pull": 0.9,
-        	"custom_model_data": 5
+        	"custom_model_data": 4
             },
             "model": "item/crossbow/armadillo_crossbow_pulling_2"
         },
         {
             "predicate": {
                 "charged": 1,
-        	"custom_model_data": 5
+        	"custom_model_data": 4
             },
             "model": "item/crossbow/armadillo_crossbow_arrow"
         },
         {
             "predicate": {
                 "charged": 1,
-        	"custom_model_data": 5,
+        	"custom_model_data": 4,
                 "firework": 1
             },
             "model": "item/crossbow/armadillo_crossbow_firework"

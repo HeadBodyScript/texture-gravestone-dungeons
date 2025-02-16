@@ -13,7 +13,27 @@
       "predicate": {
         "custom_model_data": 2
       },
-      "model": "minecraft:item/swords/dark_moon"
+      "model": "minecraft:item/swords/reinforced_netherite_sword_1"
+    },{
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "minecraft:item/swords/reinforced_netherite_sword_2"
+    },{
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "minecraft:item/swords/reinforced_netherite_sword_3"
+    },{
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "minecraft:item/swords/moonveil_2"
+    },{
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "minecraft:item/swords/dark_moon_2"
     }
   ]
 }

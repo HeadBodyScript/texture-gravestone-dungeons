@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/mace"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "minecraft:item/mace/wooden_club"
+    },{
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "minecraft:item/mace/reinforced_mace_1"
+    },{
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "minecraft:item/mace/reinforced_mace_2"
+    },{
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "minecraft:item/mace/reinforced_mace_3"
+    },{
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "minecraft:item/mace/battle_mace"
+    }
+  ]
+}
+

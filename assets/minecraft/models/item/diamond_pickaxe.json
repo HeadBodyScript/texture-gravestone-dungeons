@@ -1,0 +1,29 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/diamond_pickaxe"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "minecraft:item/pickaxes/reinforced_diamond_pickaxe_1"
+    },{
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "minecraft:item/pickaxes/reinforced_diamond_pickaxe_2"
+    },{
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "minecraft:item/pickaxes/reinforced_diamond_pickaxe_3"
+    },{
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "minecraft:item/pickaxes/miners_talon"
+    }
+  ]
+}

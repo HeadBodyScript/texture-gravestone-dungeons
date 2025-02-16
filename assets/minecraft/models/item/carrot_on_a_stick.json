@@ -1,8 +1,7 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/spawn_egg",
-        "layer1": "item/spawn_egg_overlay"
+  "parent": "minecraft:item/handheld_rod",
+  "textures": {
+    "layer0": "minecraft:item/carrot_on_a_stick"
     },
     "overrides": [
         {
@@ -68,6 +67,12 @@
         },{
             "predicate": { "custom_model_data":21},
       	    "model": "item/model/ritual/ritual_warpend4"
+        },{
+            "predicate": { "custom_model_data":22},
+      	    "model": "item/model/enchantment/greatblade_defense"
+        },{
+            "predicate": { "custom_model_data":23},
+      	    "model": "item/model/ritual/ritual_breeding_stone"
         }
     ]
 }

@@ -9,6 +9,21 @@
         "custom_model_data": 1
       },
       "model": "minecraft:item/reinforcement_tool/rasp"
+    },{
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "minecraft:item/axes/reinforced_iron_axe_1"
+    },{
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "minecraft:item/axes/reinforced_iron_axe_2"
+    },{
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "minecraft:item/axes/reinforced_iron_axe_3"
     }
   ]
 }

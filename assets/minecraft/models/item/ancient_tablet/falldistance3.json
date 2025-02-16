@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/handheld",
-  "textures": {
-    "layer0": "minecraft:item/ancient_tablet/falldistance3"
-  }
-}

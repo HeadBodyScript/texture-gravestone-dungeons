@@ -9,6 +9,21 @@
         "custom_model_data": 1
       },
       "model": "minecraft:item/reinforcement_tool/hammer"
+    },{
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "minecraft:item/pickaxes/reinforced_iron_pickaxe_1"
+    },{
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "minecraft:item/pickaxes/reinforced_iron_pickaxe_2"
+    },{
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "minecraft:item/pickaxes/reinforced_iron_pickaxe_3"
     }
   ]
 }

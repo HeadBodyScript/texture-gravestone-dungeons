@@ -8,8 +8,17 @@
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "minecraft:item/sickle"
+      "model": "minecraft:item/hoes/reinforced_netherite_hoe_1"
+    },{
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "minecraft:item/hoes/reinforced_netherite_hoe_2"
+    },{
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "minecraft:item/hoes/reinforced_netherite_hoe_3"
     }
   ]
 }
-

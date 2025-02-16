@@ -11,29 +11,34 @@
             "model": "item/model/rune/max_health"
     },{
       "predicate": {
-        "custom_model_data": 6
+        "custom_model_data": 2
       },
             "model": "item/model/rune/mana"
     },{
       "predicate": {
-        "custom_model_data": 11
+        "custom_model_data": 3
       },
             "model": "item/model/rune/safe_fall_distance"
     },{
       "predicate": {
-        "custom_model_data": 16
+        "custom_model_data": 4
       },
             "model": "item/model/rune/entity_interaction_range"
     },{
       "predicate": {
-        "custom_model_data": 21
+        "custom_model_data": 5
       },
             "model": "item/model/rune/oxygen_bonus"
     },{
       "predicate": {
-        "custom_model_data": 100
+        "custom_model_data": 6
       },
             "model": "item/model/rune/reset"
+    },{
+      "predicate": {
+        "custom_model_data": 7
+      },
+            "model": "item/model/rune/breeding_stone"
     }
   ]
 }
