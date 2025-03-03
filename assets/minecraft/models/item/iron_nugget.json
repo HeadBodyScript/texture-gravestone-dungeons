@@ -9,6 +9,11 @@
         "custom_model_data": 1
       },
       "model": "minecraft:item/silver_coin"
+    },{
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "minecraft:item/trinkets/silver_ring"
     }
   ]
 }

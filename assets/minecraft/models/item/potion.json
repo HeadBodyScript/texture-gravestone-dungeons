@@ -33,17 +33,7 @@
       "predicate": {
         "custom_model_data": 10
       },
-      "model": "minecraft:item/consumables/ale"
-    },{
-      "predicate": {
-        "custom_model_data": 11
-      },
       "model": "minecraft:item/consumables/mead"
-    },{
-      "predicate": {
-        "custom_model_data": 12
-      },
-      "model": "minecraft:item/consumables/mulled_wine"
     }
   ]
 }

@@ -8,7 +8,32 @@
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "minecraft:item/trinkets/goat_pelt"
+      "model": "minecraft:item/trinkets/goat_hide"
+    },{
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "minecraft:item/trinkets/red_mooshroom_leather"
+    },{
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "minecraft:item/trinkets/brown_mooshroom_leather"
+    },{
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "minecraft:item/trinkets/panda_pelt"
+    },{
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "minecraft:item/trinkets/sniffer_pelt"
+    },{
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "minecraft:item/trinkets/polar_bear_pelt"
     }
 
   ]

@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:item/handheld",
-  "textures": {
-    "layer1": "minecraft:item/consumables/mulled_wine",
-    "layer0": "minecraft:item/consumables/mulled_wine_overlay"
-
-  }
-}

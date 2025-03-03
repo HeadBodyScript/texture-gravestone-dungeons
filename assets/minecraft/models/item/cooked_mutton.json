@@ -8,6 +8,11 @@
       "predicate": {
         "custom_model_data": 1
       },
+      "model": "minecraft:item/consumables/cooked_prime_mutton"
+    },{
+      "predicate": {
+        "custom_model_data": 2
+      },
       "model": "minecraft:item/consumables/cooked_goat_meat"
     }
   ]
